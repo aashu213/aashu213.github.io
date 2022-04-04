@@ -10,7 +10,7 @@
     {
       "name": "Docummentation",
       "short_name": "Docs",
-      "url": "/docs/getting-started",
+      "url": "/docs/intro-react-native-components",
       "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
     },
     {
