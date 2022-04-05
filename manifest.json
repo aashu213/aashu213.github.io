@@ -16,13 +16,13 @@
     {
       "name": "Core Components",
       "short_name": "Components",
-      "url": "/docs/components-and-apis",
+      "url": "/docs/Installation-Process",
       "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
     },
     {
       "name": "Core APIs",
       "short_name": "APIs",
-      "url": "/docs/accessibilityinfo",
+      "url": "/docs/Workspaces",
       "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
     },
     {
@@ -31,12 +31,6 @@
       "url": "/help",
       "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
     },
-    {
-      "name": "Blog",
-      "short_name": "Blog",
-      "url": "/blog",
-      "icons": [{ "src": "img/pwa/manifest-icon-192.png", "sizes": "192x192" }]
-    }
   ],
   "icons": [
     {
