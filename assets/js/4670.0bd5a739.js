@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkatonic_dev=self.webpackChunkkatonic_dev||[]).push([[4670],{34670:function(e,c,k){k.r(c)}}]);
